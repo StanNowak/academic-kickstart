@@ -63,6 +63,6 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Stan Nowak is a masters student at Simon Fraser University. He is interested in the Visual Analytics. Specifically, he is interested in novel visualization and interaction techniques for capturing expert knowledge and judgement during analysis.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Stan is a long-time consultant with the Vancouver Institute for Visual Analytics which is part of SFU's Big Data Initiative. Here, Stan provides training and visualization/analysis support for internal and external clients such as researchers, students, or public and private instituations.
